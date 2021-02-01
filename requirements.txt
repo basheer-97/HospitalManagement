@@ -1,0 +1,16 @@
+appdirs==1.4.4
+asgiref==3.3.1      
+autopep8==1.5.4     
+distlib==0.3.1      
+Django==3.0.4       
+django-filter==2.4.0
+filelock==3.0.12    
+Pillow==8.1.0       
+psycopg2==2.8.6
+pycodestyle==2.6.0
+pytz==2020.5
+six==1.15.0
+sqlparse==0.4.1
+toml==0.10.1
+virtualenv==20.0.31
+virtualenvwrapper-win==1.2.6
